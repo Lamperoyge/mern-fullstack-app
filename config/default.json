@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb://127.0.0.1:27017/mernSocialNetwork",
-  "jwtSecret": "mySecretToken"
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "9921980d0ff4988f8151",
+  "githubSecret": "93661927d40fbcc29f5aa021172ea51c7c916bad"
 }
