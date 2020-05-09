@@ -22,3 +22,4 @@ client/.env.test.local
 client/npm-debug.log*
 client/yarn-debug.log*
 client/yarn-error.log*
+client/devconnector_html_theme
